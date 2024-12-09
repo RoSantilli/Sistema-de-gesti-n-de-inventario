@@ -1,0 +1,7 @@
+Manzana,Fruta,20,300.0
+Yogurt,Lacteo,100,1500.0
+Jugo,Bebida,-50,1000.0
+Papas,Snack,3000,10.0
+Chocolatada,Lacteo,300,1500.0
+Palta,Verdura,345,1500.0
+Lechuga,Verdura,200,400.0
